@@ -1,4 +1,4 @@
-# Supermarket Pricing
+# TCS PYQS IN C++
 
 This project contains a simple C++ program that calculates the price of a product based on the product code's digits.
 
